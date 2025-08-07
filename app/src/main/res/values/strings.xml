@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">vknext</string>
+    <string name="auth_type_admin">Админ</string>
+    <string name="auth_type_worker">Работник</string>
+    <string name="next">Далее</string>
+    <string name="log_in">Войти</string>
+</resources>
